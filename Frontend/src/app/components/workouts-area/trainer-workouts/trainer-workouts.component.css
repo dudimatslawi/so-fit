@@ -1,0 +1,57 @@
+
+.trainer-container {
+    display: flex;
+    justify-content: left;
+    padding: 20px;
+    align-items: baseline;
+    flex-wrap: wrap;
+}
+
+.trainer-container >img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: white 3px solid;
+}
+
+.name {
+    font-size: x-large;
+    font-weight: bold;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    /* width and color */
+    transform: translateY(-10px);
+}
+
+.workouts-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+.workout-card {
+    width: 300px;
+    height: 400px;
+    padding: 20px;
+    overflow: auto;
+    text-align: left;
+    border: 1px solid;
+    border-radius: 20px;
+    color: white;
+    background-image: url("../../../../assets/images/workout-card.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.workout-card::-webkit-scrollbar {
+    display: none;
+}
+.back{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 100px;
+    right: 30px;
+}

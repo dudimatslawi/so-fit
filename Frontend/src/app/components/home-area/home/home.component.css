@@ -1,0 +1,25 @@
+.trainer-comments-container{
+    display: flex;
+    justify-content: space-between;
+}
+.comments-container{
+    width: 500px;
+    height: 200px;
+    border: 1px solid;
+    margin-top: 20px;
+    margin-right: 100px;
+    text-align: left;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 5px 5px 10px;
+}
+@media screen and (max-width: 1200px) {
+    .trainer-comments-container {
+        flex-direction: column; /* Change flex direction to column */
+    }
+    .comments-container{
+        margin: auto;
+        text-align: center;
+        justify-content: center;
+    }
+}

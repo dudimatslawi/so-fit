@@ -1,0 +1,1005 @@
+Time: Wed Apr 24 2024 10:37:48 GMT+0300 (Eastern European Summer Time)
+Message: You are not logged in.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 10:38:55 GMT+0300 (Eastern European Summer Time)
+Message: "firstName" is required
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 10:41:11 GMT+0300 (Eastern European Summer Time)
+Message: "password" length must be at least 6 characters long
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 10:41:16 GMT+0300 (Eastern European Summer Time)
+Message: incorrect email or password
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:00:00 GMT+0300 (Eastern European Summer Time)
+Message: id 1 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:00:47 GMT+0300 (Eastern European Summer Time)
+Message: "lastName" is required
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:01:16 GMT+0300 (Eastern European Summer Time)
+Message: newUploadedFile can't be empty.
+Stack: Error: newUploadedFile can't be empty.
+    at FileSaver.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\uploaded-file-saver\dist\file-saver.js:34:23)
+    at Generator.next (<anonymous>)
+    at C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\uploaded-file-saver\dist\file-saver.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\uploaded-file-saver\dist\file-saver.js:4:12)
+    at FileSaver.add (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\uploaded-file-saver\dist\file-saver.js:32:16)
+    at TrainersService.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\src\5-services\trainers-service.ts:30:47)
+    at Generator.next (<anonymous>)
+    at C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\src\5-services\trainers-service.ts:8:71
+    at new Promise (<anonymous>)
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:01:24 GMT+0300 (Eastern European Summer Time)
+Message: newUploadedFile can't be empty.
+Stack: Error: newUploadedFile can't be empty.
+    at FileSaver.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\uploaded-file-saver\dist\file-saver.js:34:23)
+    at Generator.next (<anonymous>)
+    at C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\uploaded-file-saver\dist\file-saver.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\uploaded-file-saver\dist\file-saver.js:4:12)
+    at FileSaver.add (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\uploaded-file-saver\dist\file-saver.js:32:16)
+    at TrainersService.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\src\5-services\trainers-service.ts:30:47)
+    at Generator.next (<anonymous>)
+    at C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\src\5-services\trainers-service.ts:8:71
+    at new Promise (<anonymous>)
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:02:46 GMT+0300 (Eastern European Summer Time)
+Message: "image" is required
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:03:53 GMT+0300 (Eastern European Summer Time)
+Message: Route /api/trainers/images/9559ef4b-a488-4378-8deb-f293d5849e90.jpg not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:06:50 GMT+0300 (Eastern European Summer Time)
+Message: Route /api/trainers/images/9559ef4b-a488-4378-8deb-f293d5849e90.jpg not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:06:50 GMT+0300 (Eastern European Summer Time)
+Message: Route /favicon.ico not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:08:00 GMT+0300 (Eastern European Summer Time)
+Message: "id" is not allowed
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:10:20 GMT+0300 (Eastern European Summer Time)
+Message: Route /api/trainers/ not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:10:24 GMT+0300 (Eastern European Summer Time)
+Message: "id" is not allowed
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:10:38 GMT+0300 (Eastern European Summer Time)
+Message: "id" is not allowed
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:11:03 GMT+0300 (Eastern European Summer Time)
+Message: "id" is not allowed
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:11:24 GMT+0300 (Eastern European Summer Time)
+Message: Route /api/trainers not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:11:32 GMT+0300 (Eastern European Summer Time)
+Message: "id" is not allowed
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:17:45 GMT+0300 (Eastern European Summer Time)
+Message: "id" is not allowed
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:18:13 GMT+0300 (Eastern European Summer Time)
+Message: "id" is not allowed
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:19:00 GMT+0300 (Eastern European Summer Time)
+Message: "id" is not allowed
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:20:21 GMT+0300 (Eastern European Summer Time)
+Message: "id" is not allowed
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:20:25 GMT+0300 (Eastern European Summer Time)
+Message: "id" is not allowed
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:20:57 GMT+0300 (Eastern European Summer Time)
+Message: "id" is not allowed
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:23:53 GMT+0300 (Eastern European Summer Time)
+Message: "id" is not allowed
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:24:41 GMT+0300 (Eastern European Summer Time)
+Message: "id" is not allowed
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:25:39 GMT+0300 (Eastern European Summer Time)
+Message: "id" is not allowed
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:25:43 GMT+0300 (Eastern European Summer Time)
+Message: "id" is not allowed
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:30:31 GMT+0300 (Eastern European Summer Time)
+Message: Route /api/trainers/images/9559ef4b-a488-4378-8deb-f293d5849e90.jpg not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:30:59 GMT+0300 (Eastern European Summer Time)
+Message: Route /api/trainers/images/9559ef4b-a488-4378-8deb-f293d5849e90.jpg not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:36:03 GMT+0300 (Eastern European Summer Time)
+Message: Route /api/trainers/ not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:36:08 GMT+0300 (Eastern European Summer Time)
+Message: "id" is not allowed
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:40:20 GMT+0300 (Eastern European Summer Time)
+Message: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-types' at line 1
+Stack: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-types' at line 1
+    at Packet.asError (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:41:32 GMT+0300 (Eastern European Summer Time)
+Message: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-types' at line 1
+Stack: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-types' at line 1
+    at Packet.asError (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:41:34 GMT+0300 (Eastern European Summer Time)
+Message: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-types' at line 1
+Stack: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-types' at line 1
+    at Packet.asError (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:42:29 GMT+0300 (Eastern European Summer Time)
+Message: Unknown column 'imageName' in 'field list'
+Stack: Error: Unknown column 'imageName' in 'field list'
+    at Packet.asError (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:43:15 GMT+0300 (Eastern European Summer Time)
+Message: id 1 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:43:27 GMT+0300 (Eastern European Summer Time)
+Message: "image" is required
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:43:51 GMT+0300 (Eastern European Summer Time)
+Message: "name" is required
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:46:51 GMT+0300 (Eastern European Summer Time)
+Message: "durationInMins" is required
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:47:10 GMT+0300 (Eastern European Summer Time)
+Message: "trainerId" is required
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:47:20 GMT+0300 (Eastern European Summer Time)
+Message: Cannot add or update a child row: a foreign key constraint fails (`so-fit`.`workouttypes`, CONSTRAINT `trainerRelation` FOREIGN KEY (`trainerId`) REFERENCES `trainers` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+Stack: Error: Cannot add or update a child row: a foreign key constraint fails (`so-fit`.`workouttypes`, CONSTRAINT `trainerRelation` FOREIGN KEY (`trainerId`) REFERENCES `trainers` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+    at Packet.asError (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:47:26 GMT+0300 (Eastern European Summer Time)
+Message: id 2 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:47:32 GMT+0300 (Eastern European Summer Time)
+Message: id 3 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:47:34 GMT+0300 (Eastern European Summer Time)
+Message: id 4 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:47:47 GMT+0300 (Eastern European Summer Time)
+Message: id 5 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:47:52 GMT+0300 (Eastern European Summer Time)
+Message: id 6 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:50:22 GMT+0300 (Eastern European Summer Time)
+Message: Route /api/workout/6 not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:51:11 GMT+0300 (Eastern European Summer Time)
+Message: id 1 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:51:15 GMT+0300 (Eastern European Summer Time)
+Message: id 2 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:51:36 GMT+0300 (Eastern European Summer Time)
+Message: id 2 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:51:40 GMT+0300 (Eastern European Summer Time)
+Message: id 1 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:52:49 GMT+0300 (Eastern European Summer Time)
+Message: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-types' at line 1
+Stack: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-types' at line 1
+    at Packet.asError (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:55:28 GMT+0300 (Eastern European Summer Time)
+Message: id 1 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:56:42 GMT+0300 (Eastern European Summer Time)
+Message: id 1 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:56:45 GMT+0300 (Eastern European Summer Time)
+Message: id 1 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:59:01 GMT+0300 (Eastern European Summer Time)
+Message: "id" is not allowed
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 11:59:21 GMT+0300 (Eastern European Summer Time)
+Message: "id" is not allowed
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 12:00:24 GMT+0300 (Eastern European Summer Time)
+Message: "id" is not allowed
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 12:22:10 GMT+0300 (Eastern European Summer Time)
+Message: id 2 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 12:22:30 GMT+0300 (Eastern European Summer Time)
+Message: Cannot add or update a child row: a foreign key constraint fails (`so-fit`.`workout_types`, CONSTRAINT `trainerRelation` FOREIGN KEY (`trainerId`) REFERENCES `trainers` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+Stack: Error: Cannot add or update a child row: a foreign key constraint fails (`so-fit`.`workout_types`, CONSTRAINT `trainerRelation` FOREIGN KEY (`trainerId`) REFERENCES `trainers` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+    at Packet.asError (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Apr 24 2024 12:23:48 GMT+0300 (Eastern European Summer Time)
+Message: "id" is not allowed
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 12:24:43 GMT+0300 (Eastern European Summer Time)
+Message: "id" is not allowed
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 12:25:19 GMT+0300 (Eastern European Summer Time)
+Message: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ID = 1' at line 6
+Stack: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ID = 1' at line 6
+    at Packet.asError (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Apr 24 2024 12:26:36 GMT+0300 (Eastern European Summer Time)
+Message: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id = 1' at line 6
+Stack: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id = 1' at line 6
+    at Packet.asError (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Apr 24 2024 12:27:50 GMT+0300 (Eastern European Summer Time)
+Message: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id = 2' at line 6
+Stack: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id = 2' at line 6
+    at Packet.asError (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Apr 24 2024 12:29:53 GMT+0300 (Eastern European Summer Time)
+Message: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id = 1' at line 6
+Stack: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id = 1' at line 6
+    at Packet.asError (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Apr 24 2024 12:37:08 GMT+0300 (Eastern European Summer Time)
+Message: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ID = 1' at line 5
+Stack: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ID = 1' at line 5
+    at Packet.asError (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Apr 24 2024 16:22:21 GMT+0300 (Eastern European Summer Time)
+Message: You are not logged in.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 16:22:55 GMT+0300 (Eastern European Summer Time)
+Message: You are not logged in.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 16:22:57 GMT+0300 (Eastern European Summer Time)
+Message: You are not logged in.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 16:23:15 GMT+0300 (Eastern European Summer Time)
+Message: You are not logged in.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 16:23:16 GMT+0300 (Eastern European Summer Time)
+Message: You are not logged in.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 16:23:17 GMT+0300 (Eastern European Summer Time)
+Message: You are not logged in.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 16:23:35 GMT+0300 (Eastern European Summer Time)
+Message: email already taken
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 16:40:08 GMT+0300 (Eastern European Summer Time)
+Message: "description" length must be less than or equal to 500 characters long
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 16:41:05 GMT+0300 (Eastern European Summer Time)
+Message: "description" length must be less than or equal to 500 characters long
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 16:41:12 GMT+0300 (Eastern European Summer Time)
+Message: "description" length must be less than or equal to 500 characters long
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 16:41:13 GMT+0300 (Eastern European Summer Time)
+Message: "description" length must be less than or equal to 500 characters long
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 16:41:13 GMT+0300 (Eastern European Summer Time)
+Message: "description" length must be less than or equal to 500 characters long
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 16:41:15 GMT+0300 (Eastern European Summer Time)
+Message: "description" length must be less than or equal to 500 characters long
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 16:41:38 GMT+0300 (Eastern European Summer Time)
+Message: "description" length must be less than or equal to 500 characters long
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 16:41:41 GMT+0300 (Eastern European Summer Time)
+Message: "description" length must be less than or equal to 500 characters long
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 18:27:23 GMT+0300 (Eastern European Summer Time)
+Message: You are not logged in.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 18:27:34 GMT+0300 (Eastern European Summer Time)
+Message: You are not logged in.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 18:27:40 GMT+0300 (Eastern European Summer Time)
+Message: You are not logged in.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 18:27:45 GMT+0300 (Eastern European Summer Time)
+Message: You are not logged in.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 18:27:47 GMT+0300 (Eastern European Summer Time)
+Message: You are not logged in.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 18:27:56 GMT+0300 (Eastern European Summer Time)
+Message: You are not logged in.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 18:28:04 GMT+0300 (Eastern European Summer Time)
+Message: You are not logged in.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Apr 24 2024 18:28:10 GMT+0300 (Eastern European Summer Time)
+Message: You are not logged in.
+Stack: undefined
+---------------------------------------
+
+Time: Sun Apr 28 2024 13:10:43 GMT+0300 (Eastern European Summer Time)
+Message: You are not logged in.
+Stack: undefined
+---------------------------------------
+
+Time: Sun Apr 28 2024 13:16:07 GMT+0300 (Eastern European Summer Time)
+Message: Unknown column 'NaN' in 'where clause'
+Stack: Error: Unknown column 'NaN' in 'where clause'
+    at Packet.asError (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Sun Apr 28 2024 13:16:14 GMT+0300 (Eastern European Summer Time)
+Message: Unknown column 'NaN' in 'where clause'
+Stack: Error: Unknown column 'NaN' in 'where clause'
+    at Packet.asError (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Sun Apr 28 2024 15:55:14 GMT+0300 (Eastern European Summer Time)
+Message: "password" length must be at least 6 characters long
+Stack: undefined
+---------------------------------------
+
+Time: Sun Apr 28 2024 15:55:15 GMT+0300 (Eastern European Summer Time)
+Message: "password" length must be at least 6 characters long
+Stack: undefined
+---------------------------------------
+
+Time: Sun Apr 28 2024 15:55:15 GMT+0300 (Eastern European Summer Time)
+Message: "password" length must be at least 6 characters long
+Stack: undefined
+---------------------------------------
+
+Time: Sun Apr 28 2024 15:55:16 GMT+0300 (Eastern European Summer Time)
+Message: "password" length must be at least 6 characters long
+Stack: undefined
+---------------------------------------
+
+Time: Sun Apr 28 2024 16:00:09 GMT+0300 (Eastern European Summer Time)
+Message: "password" length must be at least 6 characters long
+Stack: undefined
+---------------------------------------
+
+Time: Sun Apr 28 2024 16:44:36 GMT+0300 (Eastern European Summer Time)
+Message: incorrect email or password
+Stack: undefined
+---------------------------------------
+
+Time: Sun Apr 28 2024 16:44:44 GMT+0300 (Eastern European Summer Time)
+Message: incorrect email or password
+Stack: undefined
+---------------------------------------
+
+Time: Sun Apr 28 2024 16:45:04 GMT+0300 (Eastern European Summer Time)
+Message: incorrect email or password
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 14:46:46 GMT+0300 (Eastern European Summer Time)
+Message: email already taken
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 14:56:28 GMT+0300 (Eastern European Summer Time)
+Message: incorrect email or password
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 14:56:46 GMT+0300 (Eastern European Summer Time)
+Message: "password" length must be at least 6 characters long
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 14:56:52 GMT+0300 (Eastern European Summer Time)
+Message: incorrect email or password
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 14:57:30 GMT+0300 (Eastern European Summer Time)
+Message: incorrect email or password
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 14:57:41 GMT+0300 (Eastern European Summer Time)
+Message: incorrect email or password
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 15:04:14 GMT+0300 (Eastern European Summer Time)
+Message: incorrect email or password
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 15:04:26 GMT+0300 (Eastern European Summer Time)
+Message: email already taken
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 15:05:34 GMT+0300 (Eastern European Summer Time)
+Message: incorrect email or password
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 15:05:36 GMT+0300 (Eastern European Summer Time)
+Message: incorrect email or password
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 15:21:59 GMT+0300 (Eastern European Summer Time)
+Message: incorrect email or password
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 15:22:17 GMT+0300 (Eastern European Summer Time)
+Message: incorrect email or password
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 16:48:55 GMT+0300 (Eastern European Summer Time)
+Message: incorrect email or password
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 16:58:40 GMT+0300 (Eastern European Summer Time)
+Message: email already taken
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 16:58:44 GMT+0300 (Eastern European Summer Time)
+Message: email already taken
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 16:58:47 GMT+0300 (Eastern European Summer Time)
+Message: email already taken
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 17:04:56 GMT+0300 (Eastern European Summer Time)
+Message: incorrect email or password
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 17:05:11 GMT+0300 (Eastern European Summer Time)
+Message: email already taken
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 17:10:33 GMT+0300 (Eastern European Summer Time)
+Message: incorrect email or password
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 18:15:24 GMT+0300 (Eastern European Summer Time)
+Message: incorrect email or password
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 18:15:43 GMT+0300 (Eastern European Summer Time)
+Message: incorrect email or password
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 18:16:30 GMT+0300 (Eastern European Summer Time)
+Message: incorrect email or password
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 18:17:06 GMT+0300 (Eastern European Summer Time)
+Message: incorrect email or password
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 18:17:58 GMT+0300 (Eastern European Summer Time)
+Message: email already taken
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 18:18:03 GMT+0300 (Eastern European Summer Time)
+Message: email already taken
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 19:30:40 GMT+0300 (Eastern European Summer Time)
+Message: You are not logged in.
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 19:36:56 GMT+0300 (Eastern European Summer Time)
+Message: Unknown column 'id' in 'where clause'
+Stack: Error: Unknown column 'id' in 'where clause'
+    at Packet.asError (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Tue Apr 30 2024 19:38:01 GMT+0300 (Eastern European Summer Time)
+Message: Unknown column 'id' in 'where clause'
+Stack: Error: Unknown column 'id' in 'where clause'
+    at Packet.asError (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Tue Apr 30 2024 19:38:38 GMT+0300 (Eastern European Summer Time)
+Message: id 2 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 19:38:42 GMT+0300 (Eastern European Summer Time)
+Message: id 1 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 19:39:55 GMT+0300 (Eastern European Summer Time)
+Message: Cannot add or update a child row: a foreign key constraint fails (`so-fit`.`comments`, CONSTRAINT `userRelation` FOREIGN KEY (`userId`) REFERENCES `users` (`id`) ON DELETE RESTRICT ON UPDATE RESTRICT)
+Stack: Error: Cannot add or update a child row: a foreign key constraint fails (`so-fit`.`comments`, CONSTRAINT `userRelation` FOREIGN KEY (`userId`) REFERENCES `users` (`id`) ON DELETE RESTRICT ON UPDATE RESTRICT)
+    at Packet.asError (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Tue Apr 30 2024 19:40:00 GMT+0300 (Eastern European Summer Time)
+Message: Cannot add or update a child row: a foreign key constraint fails (`so-fit`.`comments`, CONSTRAINT `userRelation` FOREIGN KEY (`userId`) REFERENCES `users` (`id`) ON DELETE RESTRICT ON UPDATE RESTRICT)
+Stack: Error: Cannot add or update a child row: a foreign key constraint fails (`so-fit`.`comments`, CONSTRAINT `userRelation` FOREIGN KEY (`userId`) REFERENCES `users` (`id`) ON DELETE RESTRICT ON UPDATE RESTRICT)
+    at Packet.asError (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Tue Apr 30 2024 19:40:16 GMT+0300 (Eastern European Summer Time)
+Message: id 1 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 19:40:21 GMT+0300 (Eastern European Summer Time)
+Message: id 1 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Tue Apr 30 2024 19:40:22 GMT+0300 (Eastern European Summer Time)
+Message: id 1 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 01 2024 16:52:07 GMT+0300 (Eastern European Summer Time)
+Message: You are not logged in.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 01 2024 16:52:19 GMT+0300 (Eastern European Summer Time)
+Message: You are not logged in.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 01 2024 16:52:32 GMT+0300 (Eastern European Summer Time)
+Message: You are not logged in.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 01 2024 16:52:45 GMT+0300 (Eastern European Summer Time)
+Message: You are not logged in.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 01 2024 16:52:48 GMT+0300 (Eastern European Summer Time)
+Message: You are not logged in.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 01 2024 16:52:48 GMT+0300 (Eastern European Summer Time)
+Message: You are not logged in.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 01 2024 16:54:29 GMT+0300 (Eastern European Summer Time)
+Message: "dateTime" is required
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 01 2024 16:55:32 GMT+0300 (Eastern European Summer Time)
+Message: Field 'dateTime' doesn't have a default value
+Stack: Error: Field 'dateTime' doesn't have a default value
+    at Packet.asError (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed May 01 2024 16:56:02 GMT+0300 (Eastern European Summer Time)
+Message: Field 'dateTime' doesn't have a default value
+Stack: Error: Field 'dateTime' doesn't have a default value
+    at Packet.asError (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed May 01 2024 16:56:07 GMT+0300 (Eastern European Summer Time)
+Message: Field 'dateTime' doesn't have a default value
+Stack: Error: Field 'dateTime' doesn't have a default value
+    at Packet.asError (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed May 01 2024 16:56:11 GMT+0300 (Eastern European Summer Time)
+Message: Field 'dateTime' doesn't have a default value
+Stack: Error: Field 'dateTime' doesn't have a default value
+    at Packet.asError (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\dudi programming\projects\01 - MySQL Angular Full Stack Template\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed May 01 2024 17:13:28 GMT+0300 (Eastern European Summer Time)
+Message: id 1 not exist.
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 01 2024 17:39:58 GMT+0300 (Eastern European Summer Time)
+Message: "body" is required
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 01 2024 17:40:03 GMT+0300 (Eastern European Summer Time)
+Message: "body" is required
+Stack: undefined
+---------------------------------------
+
+Time: Wed May 01 2024 17:41:25 GMT+0300 (Eastern European Summer Time)
+Message: "body" is required
+Stack: undefined
+---------------------------------------
+

@@ -1,0 +1,18 @@
+<div class="trainer-workouts-container">
+    <a routerLink="/home">
+        <img class="back" src="../../../../assets/images/undo.png">
+    </a>
+    <div class="trainer-container">
+        <img  [src]="trainer?.imageUrl">
+        &nbsp;<span class="name">{{trainer?.firstName}} {{trainer?.lastName}}</span>
+    </div>
+
+
+    <div class="workouts-container">
+        <div class="workout-card" *ngFor="let w of workouts">
+            <strong> Workout name: {{w.name}}</strong> <br><br>
+            {{w.description}} <br><br>
+            <strong>Workout duration: {{w.durationInMins}}m</strong>
+        </div>
+    </div>
+</div>

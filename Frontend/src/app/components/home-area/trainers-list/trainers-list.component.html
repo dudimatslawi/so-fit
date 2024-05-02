@@ -1,0 +1,13 @@
+<div>
+    <h2>Our Trainers:</h2>
+    <div class="trainers-list-container">
+        <br>
+        <div *ngFor="let t of trainers">
+            <a  routerLink="/trainer-workouts/{{t.id}}">
+                <img [src]="t.imageUrl" (mouseenter)="t.hovered = true" (mouseleave)="t.hovered = false" />
+            </a>
+            <br><br>
+            <span *ngIf="t.hovered" class="name-span">{{t.firstName}} {{t.lastName}}</span>
+        </div>
+    </div>
+</div>

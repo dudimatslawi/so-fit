@@ -1,0 +1,28 @@
+.comment-card {
+    width: 200px;
+    height: 150px;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px;
+}
+
+.comment-body {
+    text-align: right;
+}
+.comment-card > strong{
+    text-align: left;
+}
+textarea{
+    max-height: 100px;
+}
+button{
+    margin-top: 20px;
+}
+.list-container{
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 30px;
+    justify-content: space-around;
+}
